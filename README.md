@@ -3,7 +3,10 @@
 Download the data(The painting of Van Gogh, Monet, Cezanne in https://www.kaggle.com/suyashdamle/cyclegan. 
 
 
-## Result Videos
+## Result IMAGE
+![image](results/res1.png)
 
 
-![origin](results/inpy.mp4)
+## Result Video
+![video](results/res2.png)
+
